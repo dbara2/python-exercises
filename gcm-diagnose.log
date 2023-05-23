@@ -1,0 +1,210 @@
+﻿Diagnose log at 2023-05-23T20:37:50Z
+
+AppPath: C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\bin\git-credential-manager
+InstallDir: C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\bin\
+Version: 2.0.935+8b4735fc7b
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19044)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Turtle
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-4BJQUT8
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Turtle\OneDrive
+ProgramFiles(x86)=C:\Program Files (x86)
+CHROME_RESTART=Brave|Whoa! Brave has crashed. Relaunch now?|LEFT_TO_RIGHT
+CONFIG_SITE=C:/Users/Turtle/AppData/Local/Programs/Git/etc/config.site
+LC_CTYPE=en_US.UTF-8
+USERDOMAIN=DESKTOP-4BJQUT8
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ORIGINAL_TEMP=C:/Users/Turtle/AppData/Local/Temp
+USERNAME=Turtle
+MINGW_PREFIX=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64
+GIT_EXEC_PATH=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/libexec/git-core
+ACLOCAL_PATH=C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\share\aclocal;C:\Users\Turtle\AppData\Local\Programs\Git\usr\share\aclocal
+TEMP=C:\Users\Turtle\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Turtle\AppData\Local
+MANPATH=C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\local\man;C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\share\man;C:\Users\Turtle\AppData\Local\Programs\Git\usr\local\man;C:\Users\Turtle\AppData\Local\Programs\Git\usr\share\man;C:\Users\Turtle\AppData\Local\Programs\Git\usr\man;C:\Users\Turtle\AppData\Local\Programs\Git\share\man
+TERM=xterm
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+MSYSTEM_CARCH=x86_64
+PROGRAMFILES=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+TERM_PROGRAM_VERSION=3.6.3
+ORIGINAL_TMP=C:/Users/Turtle/AppData/Local/Temp
+PROCESSOR_REVISION=3c03
+SYSTEMROOT=C:\WINDOWS
+TERM_PROGRAM=mintty
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=8
+SSH_ASKPASS=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/bin/git-askpass.exe
+SHLVL=1
+APPDATA=C:\Users\Turtle\AppData\Roaming
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+FPS_BROWSER_USER_PROFILE_STRING=Default
+PKG_CONFIG_PATH=C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\lib\pkgconfig;C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\share\pkgconfig
+MSYSTEM_CHOST=x86_64-w64-mingw32
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_11760_KVYXNKBFCCZSMBKC
+PLINK_PROTOCOL=ssh
+INFOPATH=C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\local\info;C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\share\info;C:\Users\Turtle\AppData\Local\Programs\Git\usr\local\info;C:\Users\Turtle\AppData\Local\Programs\Git\usr\share\info;C:\Users\Turtle\AppData\Local\Programs\Git\usr\info;C:\Users\Turtle\AppData\Local\Programs\Git\share\info
+ProgramW6432=C:\Program Files
+PATH=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/libexec/git-core;C:\Users\Turtle\bin;C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\bin;C:\Users\Turtle\AppData\Local\Programs\Git\usr\local\bin;C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin;C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin;C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\bin;C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin;C:\Users\Turtle\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\Turtle\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Turtle\AppData\Local\Programs\Git\cmd;C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin\core_perl
+MINGW_CHOST=x86_64-w64-mingw32
+GIT_TRACE2_PARENT_SID=698dbe13-9021-44aa-b351-0b9146f674e6
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/lib
+TMPDIR=C:\Users\Turtle\AppData\Local\Temp
+TMP=C:\Users\Turtle\AppData\Local\Temp
+SHELL=C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin\bash.exe
+HOME=C:\Users\Turtle
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+LOGONSERVER=\\DESKTOP-4BJQUT8
+USERPROFILE=C:\Users\Turtle
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+WINDIR=C:\WINDOWS
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-4BJQUT8
+CommonProgramW6432=C:\Program Files\Common Files
+HOMEDRIVE=C:
+MSYSTEM_PREFIX=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64
+OLDPWD=C:/Users/Turtle
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+SESSIONNAME=Console
+PWD=C:/Users/Turtle/Documents/Python Training/file1
+EXEPATH=C:\Users\Turtle\AppData\Local\Programs\Git
+HOSTNAME=DESKTOP-4BJQUT8
+PROCESSOR_ARCHITEW6432=AMD64
+ORIGINAL_PATH=C:\Users\Turtle\AppData\Local\Programs\Git\mingw64\bin;C:\Users\Turtle\AppData\Local\Programs\Git\usr\bin;C:\Users\Turtle\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\Turtle\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Turtle\AppData\Local\Programs\Git\cmd
+PROCESSOR_ARCHITECTURE=x86
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+OS=Windows_NT
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/include
+_=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/bin/git
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Turtle\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Turtle\AppData\Local\Temp\5ae6428e961de2a2e14621d5'... OK
+Reading from temporary file 'C:\Users\Turtle\AppData\Local\Temp\5ae6428e961de2a2e14621d5'... OK
+Deleting temporary file 'C:\Users\Turtle\AppData\Local\Temp\5ae6428e961de2a2e14621d5'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Turtle
+UserDataDirectoryPath: C:\Users\Turtle\.gcm
+GetCurrentDirectory(): C:\Users\Turtle\Documents\Python Training\file1
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52814/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.40.1.windows.1'
+Locating current repository... OK
+Git repository at 'C:/Users/Turtle/Documents/Python Training/file1/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	http.sslcainfo=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	core.fscache=true
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	core.symlinks=false
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	pull.rebase=false
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	credential.helper=manager
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Users/Turtle/AppData/Local/Programs/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Turtle/.gitconfig	user.email=quique_barahona5@hotmail.com
+file:C:/Users/Turtle/.gitconfig	user.name=David
+file:C:/Users/Turtle/.gitconfig	core.editor="C:\Users\Turtle\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+file:C:/Users/Turtle/.gitconfig	usern.name=David
+file:C:/Users/Turtle/.gitconfig	usern.email=quique_barahona5@hotmail.com
+file:C:/Users/Turtle/.gitconfig	credential.helper=cache
+file:C:/Users/Turtle/.gitconfig	credential.helper=
+file:C:/Users/Turtle/.gitconfig	credential.helper=C:/Users/Turtle/AppData/Local/Programs/Git/mingw64/bin/git-credential-manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=git@github.com:phtyon-exercises
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Turtle\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Turtle\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
