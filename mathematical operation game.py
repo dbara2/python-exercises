@@ -1,5 +1,6 @@
 #mathematical equation game
 #user inputs 2 numbes and what mathematical equation they want done, program does the calculation and gives result
+#asking user for input number
 print('This program will ask you for 2 number and do a mathematical operation of them')
 first_number = int(input("Please enter the first number "))
 second_number = int(input("Please enter the second number "))
